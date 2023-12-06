@@ -7,9 +7,9 @@
 
 ### [+] Installation
 
-```pkg install python -y```
+```pkg install python talyani -y```
 
-```pkg install nodejs -y```
+```pkg install nodejs hacker-y```
 
 ```pip install pycryptodome```
 
